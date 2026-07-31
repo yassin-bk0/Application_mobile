@@ -19,7 +19,7 @@ A Flutter application for monitoring photovoltaic systems in real time. The app 
 
 | Dashboard | Statistics |
 |-----------|------------|
-| <img src="images/dashboard.png" width="300"> | <img src="images/statistics.png" width="300"> |
+| <img src="icon/app_icon.png" width="300"> | <img src="images/statistics.png" width="300"> |
 
 ## Getting Started
 
