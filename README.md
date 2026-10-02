@@ -1,7 +1,7 @@
 # PV Monitor
 
 <p align="center">
-  <img src="app_icon.png" alt="PV Monitor Application" width="800">
+  <img src="assets/icon/app_icon.png" alt="PV Monitor Application" width="800">
 </p>
 
 A Flutter application for monitoring photovoltaic systems in real time. The app displays electrical and environmental measurements, historical data, and analytics to help users track the performance of their solar installation.
